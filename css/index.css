@@ -1,5 +1,6 @@
-#greeting
+#name
 {
-	color:#f52d2a;
-	text-align:center;
+	Float:left;
+	padding-right:10px;
+	padding-bottom:10px;
 }
