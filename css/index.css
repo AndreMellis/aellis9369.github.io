@@ -1,6 +1,23 @@
 #name
 {
-	Float:left;
+	float:left;
 	padding-right:10px;
 	padding-bottom:10px;
+}
+
+#education h2
+{
+	float:left;
+	padding-right:20px;
+	padding-bottom:20px;
+}
+
+#education ul
+{
+	list-style:none;
+}
+
+#education #contents
+{
+	align-content: center;
 }
