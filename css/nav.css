@@ -1,0 +1,27 @@
+#nav ul
+{
+	background-color:#97eefc;
+	width:100%;
+	padding:15px;
+	border-radius:10px;
+}
+
+#nav li
+{
+	display:inline;
+	list-style:none;
+	background-color:#97eefc;
+	padding:15px;
+	text-align:center;
+}
+
+#nav a
+{
+	text-decoration:none;
+	color:black;
+}
+
+#nav li:hover
+{
+	background-color:#619aa3;
+}
